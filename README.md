@@ -1,3 +1,3 @@
 # stunning-octo-chainsaw
 
-My Python Projects :)
+My Python Project :)
